@@ -1,1 +1,6 @@
 Java.gitignore
+.idea
+.gradle
+/build/
+/gradle/
+/web/
